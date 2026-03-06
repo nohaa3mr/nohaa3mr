@@ -1,16 +1,50 @@
-## Hi there 👋
+Noha Amr
 
-<!--
-**nohaa3mr/nohaa3mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Backend Developer focused on building scalable APIs and exploring cloud-native systems using the .NET ecosystem.
 
-Here are some ideas to get you started:
+About
+	•	Backend developer specializing in ASP.NET Core and C#
+	•	Experienced with Clean Architecture, CQRS, and modern backend design patterns
+	•	Interested in Cloud Computing and DevOps practices
+	•	Contributor to open-source projects and collaborative engineering environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+Backend
+	•	C#
+	•	ASP.NET Core
+	•	Entity Framework Core
+	•	RESTful API Design
+  • Golang (basics)
+
+Architecture
+	•	Clean Architecture
+	•	CQRS
+	•	MediatR
+	•	FluentValidation
+	•	SOLID Principles
+  • Design Patterns
+
+DevOps & Cloud
+	• CCNA 
+  •	Docker
+	•	GitHub Actions (CI/CD)
+	•	Terraform
+	•	AWS (Cloud Fundamentals)
+  • Promethuese 
+  • Garafana
+
+Tools
+	•	Git / GitHub / GitLab
+	•	SQL Server
+	•	Linux 
+
+Currently Learning
+	•	AWS Cloud (CLF-02)
+	•	Cloud Infrastructure & Architecture
+	•	Advanced DevOps workflows
+
+Connect Via:
+
+LinkedIn: (https://www.linkedin.com/in/nohaamr710)
+Email: (nohaabdulaziz373@gmail.com)
