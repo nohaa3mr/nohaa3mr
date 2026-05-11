@@ -18,7 +18,7 @@ Clean Architecture · Vertical Slice · Onion Architecture · CQRS · MediatR ·
 Docker · GitHub Actions · Terraform · AWS · Prometheus · Grafana · Linux · CCNA
 
 **Tools**
-Git · GitHub · GitLab · SQL Server
+Git · GitHub · GitLab · SQL Server . Postman . Swagger . PostgreSQL . Scalar . OpenAPI 
 
 ---
 
